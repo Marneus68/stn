@@ -24,4 +24,9 @@ Server
 
 The server is contained in the *server* sub-directory.
 
+License
+-------
+
+This project and every file in it are under the lGPL v2.1. See [LICENSE](https://github.com/Marneus68/stnc/blob/master/LICENSE) for more details.
+
 
