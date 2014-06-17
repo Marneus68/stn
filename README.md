@@ -12,7 +12,9 @@ I you want to build this project with both the client and the server, don't forg
 Building
 --------
 
-_TODO_
+Building the project can be done by running *make* in the project directory.
+
+    make
 
 Client
 ------
