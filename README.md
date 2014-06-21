@@ -16,6 +16,12 @@ Building the project can be done by running *make* in the project directory.
 
     make
 
+Specifications
+--------------
+
+The specifications of the Telnet protocol can be found in [RFC 854](http://www.faqs.org/rfcs/rfc854.html) several RFCs expand on this one.
+[Here](http://binaryhole.blogspot.fr/2006/12/bh-1-telnet-protocol-explained.html)'s a detailed article on how it actually works and can sometimes be implemented.
+
 Client
 ------
 
