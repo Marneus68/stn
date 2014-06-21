@@ -24,4 +24,13 @@
 
 # Submodules directories
 server
+server/
+./server/
 client
+client/
+./client/
+
+# Intermedite build directories
+obj
+obj/
+./obj/
